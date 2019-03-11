@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "code_Athena", "code_Athena.pyproj", "{E03C48EA-E8CD-48F5-9A7A-3817331F353E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03C48EA-E8CD-48F5-9A7A-3817331F353E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03C48EA-E8CD-48F5-9A7A-3817331F353E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D55C2E-2F9B-4A3B-8A31-AE4817DA97BF}
+	EndGlobalSection
+EndGlobal
